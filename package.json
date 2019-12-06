@@ -1,0 +1,22 @@
+{
+  "name": "nexter-project",
+  "version": "1.0.0",
+  "description": "Real Estate Agency",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tlou-Maponya/nexter-project.git"
+  },
+  "author": "Tlou Maponya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tlou-Maponya/nexter-project/issues"
+  },
+  "homepage": "https://github.com/Tlou-Maponya/nexter-project#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
